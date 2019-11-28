@@ -1,2 +1,3 @@
 include ':app', ':pushsignal'
 rootProject.name='PushSignalApp'
+include ':library'
